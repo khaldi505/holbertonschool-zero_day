@@ -1,1 +1,1 @@
-Some Emacs commands.
+Emacs commands
