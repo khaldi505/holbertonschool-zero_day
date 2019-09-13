@@ -1,1 +1,1 @@
-__git__
+__Git is up to date__
